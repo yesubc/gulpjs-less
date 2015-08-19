@@ -1,4 +1,4 @@
-Gulp and Bower Workshop
+Gulp with Less
 ===================
 
 ### Getting Started
