@@ -20,7 +20,8 @@
         .pipe(less({
           paths: [ path.join(__dirname, 'less', 'includes') ]
         }))
-        .pipe(gulp.dest('public/css'));
+        .pipe(gulp.dest('public/css'))
+        .pipe(notify('Less Compiled'));
     });
 
     // Watch task
