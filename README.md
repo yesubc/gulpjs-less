@@ -18,4 +18,7 @@ Gulp with Less
 #### Run Gulp tasks
     $ gulp
     
-Note: You need to install `nodejs`, `npm`, & `bower` if you don't have them already.
+##### Reference
+    https://www.npmjs.com/package/gulp-less
+    
+Note: You need to install `nodejs`, `npm`, & `bower`.
